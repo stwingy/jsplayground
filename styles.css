@@ -1,0 +1,10 @@
+span {
+	color: blue;
+}
+#clicker {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	z-index: 5;
+	transition: all 6s ease;
+}
